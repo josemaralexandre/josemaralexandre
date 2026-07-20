@@ -27,7 +27,7 @@ Currently focused on improving my skills in:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma"/>
 
 </div>
 
