@@ -1,123 +1,133 @@
 <div align="center">
 
-# 👋 Olá, eu sou Josemar Alexandre
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0066FF&height=200&section=header&text=Josemar%20Alexandre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Networking+Student;Future+Software+Engineer;AI+Enthusiast;Founder+of+Sessio+Technologies;Always+Learning+Something+New..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Front-End+Developer;HTML+%7C+CSS+Developer;Currently+Learning+JavaScript;Building+Creative+Web+Experiences" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+## 👋 About Me
 
-💻 Estudante de Informática
+Hello! I'm **Josemar Alexandre**, a passionate Front-End Developer from Angola 🇦🇴.
 
-🌐 Apaixonado por Redes de Computadores
+I enjoy creating modern, responsive and user-friendly websites.
 
-🤖 Aprendendo Inteligência Artificial
+Currently focused on:
 
-☕ Desenvolvedor Java
+- 🌐 Building websites with **HTML & CSS**
+- ⚡ Improving my skills in **JavaScript**
+- 🎨 Creating clean and attractive user interfaces
+- 📚 Constantly learning new web development techniques
 
-🐍 Aprendendo Python
-
-🚀 Fundador da **Sessio Technologies**
-
-🇦🇴 Angola
-
----
-
-# 💻 Tecnologias
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql,git,github,vscode,linux,bash"/>
-
-</p>
+My goal is to become a professional developer and create impactful digital experiences.
 
 ---
 
-# 📊 Estatísticas
+## 💻 Technologies & Tools
 
-<p align="center">
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma" />
+
+</div>
+
+---
+
+## 🚀 My Skills
+
+```text
+HTML        ████████████████████  Advanced
+CSS         ████████████████████  Advanced
+JavaScript  ███████████░░░░░░░░░  Learning
+Git         ████████████░░░░░░░░  Learning
+```
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemaralexandre&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemaralexandre&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=josemaralexandre&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Troféus
+## 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=josemaralexandre&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
-</p>
+</div>
 
 ---
 
-# 📈 Contribuições
+## 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=josemaralexandre&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-# 🐍 Snake Animation
+## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/josemaralexandre/josemaralexandre/output/github-contribution-grid-snake.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🌎 Visitantes
+## 🌎 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=josemaralexandre&label=Visitors&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 📫 Contacto
-
-<p align="center">
-
-<a href="mailto:SEUEMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="YOUR_FACEBOOK_LINK">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://wa.me/YOUR_NUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## ⚡ Motto
+<img src="https://komarev.com/ghpvc/?username=josemaralexandre&style=for-the-badge&color=blue"/>
 
-> **"Building the future through code, networking and artificial intelligence."**
+<br>
+
+### "Creating the web, one line of code at a time." 💻
 
 </div>
