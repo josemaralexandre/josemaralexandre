@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Josemar Alexandre**, a Front-End Developer from Angola 🇦🇴.
+Hello! I'm **Josemar Alexandre**, a Front-End Developer from Angola.
 
 I enjoy building websites with clean designs, responsive layouts and good user experiences.
 
@@ -75,11 +75,11 @@ Git         ███████░░░░░░░░░░░░░  Learni
 <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://wa.me/YOUR_NUMBER">
+<a href="https://wa.me/972744390">
 <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:josemargongaalexandrejosy@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
